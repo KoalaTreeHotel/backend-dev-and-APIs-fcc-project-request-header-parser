@@ -22,8 +22,14 @@ app.get("/", function (req, res) {
 // your first API endpoint...
 // ME START
 app.get("/api/whoami", function (req, res) {
-    // view the headers
-    res.json(req.headers);
+    res.json({ 
+        // key ipaddress and value the ip of the machine that made the request
+        ipaddress: req.ip,
+        // key language and value the browser's language 
+        language: req.headers["accept-language"],
+        // key software and value the browser's info
+        software: req.headers["user-agent"],
+    });
 });
 // ME END
 
