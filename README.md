@@ -7,5 +7,8 @@ Instructions:
 - npm install
 - npm run start
 
-Upload code to replit.com or glitch.com for FCC verification.
-See <https://replit.com/@sfraser-dev/boilerplate-project-headerparser> for this code in production.
+See this code in production
+
+- <https://replit.com/@sfraser-dev/boilerplate-project-headerparser>
+
+*Need to upload code to replit.com or glitch.com for FCC verification.*
