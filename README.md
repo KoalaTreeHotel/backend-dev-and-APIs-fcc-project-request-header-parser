@@ -4,7 +4,7 @@ Microservice to parse the header of a HTTP request. Node and Express used. FCC f
 
 Instructions:
 
-  - npm install
-  - npm run start
+- npm install
+- npm run start
 
 Upload code to replit.com or glitch.com for FCC verification.
