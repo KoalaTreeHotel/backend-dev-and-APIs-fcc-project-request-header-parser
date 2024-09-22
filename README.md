@@ -1,6 +1,6 @@
 # Request Header Parser Microservice
 
-Microservice to parse the header of a HTTP request. Node and Express used. FCC final project. 
+Microservice to parse the header of a HTTP request. Node and Express used. FCC Backend API course final project. 
 
 Instructions:
 
