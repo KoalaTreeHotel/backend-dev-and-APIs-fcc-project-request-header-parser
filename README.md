@@ -7,8 +7,9 @@ Instructions:
 - npm install
 - npm run start
 
-See this code in production
+See this code in production:
 
-- <https://replit.com/@sfraser-dev/boilerplate-project-headerparser>
-
-*Need to upload code to replit.com or glitch.com for FCC verification.*
+- Replit:
+    - <https://replit.com/@sfraser-dev/boilerplate-project-headerparser>
+- Gitpod:
+    - <https://gitpod.io/#https://github.com/sfraser-dev/javascript-node-express-request-header-parser-microservice>
